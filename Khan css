@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage
+        
+        </title>
+        
+        <style>
+            h1 {color:yellow;}
+            h1 {background-color:red;}
+            #h3id1 {color:green;}
+            .li-class1 {color:orange;}
+            #h3id2 {color:rgb(117, 43, 166);}
+            .li-class2 {color:rgb(60, 128, 56);}
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel Around The World</h1>
+        
+        <h3 id="h3id1"> Hotels </h3>
+        <ol> 
+            <li class="li-class1"> Trivago
+            <li class="li-class1"> TripAdvisor
+            <li class="li-class1"> Hotels.com
+            
+        </ol>
+        
+       <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/The_Peninsula_New_York_Entrance.jpg" width="203">
+        
+        <h3 id="h3id2"> Flights </h3>
+         <ul>
+             <li class="li-class2"> Google Flights
+             <li class="li-class2"> Cheap flights
+             <li class="li-class2"> Skyscanner
+             
+         </ul>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ANA_777-300_Taking_off_from_JFK.jpg/1024px-ANA_777-300_Taking_off_from_JFK.jpg" width="203">
+        
+    <p>For the purchase of the hotel/flight,</p><br><p>use the code"TATW 25" to get 25% off your first purchase.</p>
+    
+    
+    
+      <p><strong>The food is <em>not</em> provided in the recommended hotels.</strong></p>
+      
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Percent_18e.svg/800px-Percent_18e.svg.png" width="203">
+    </body>
+</html>
